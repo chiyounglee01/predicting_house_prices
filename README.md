@@ -1,2 +1,2 @@
-# predicting_house_prices
-A regression based Data Science project to predict housing prices in Ames Iowa.
+# Predicting House Prices Using Advanced Regression Techniques
+The goal of this project was to develop a predictive model for estimating house prices based on a range of features provided in the dataset. This project, hosted on Kaggle, involved applying advanced regression techniques to a dataset of house sale prices in Ames, Iowa. The challenge was to build a model that can accurately predict house prices based on both numeric and categorical features. The project used Python code.
